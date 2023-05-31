@@ -16,9 +16,11 @@ Berikut beberapa tools yang digunakan dalam pengembangan mini-project-1
                   - password  : password
 
 ## PRIVILLAGE
+```
 CREATE USER 'superadmin'@'0.0.0.0' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON satkom_indo.* TO 'superadmin'@'0.0.0.0';
 SHOW GRANTS FOR 'superadmin'@'0.0.0.0';
+```
 
 ## AUTHOR
 Irsal Hamdi
