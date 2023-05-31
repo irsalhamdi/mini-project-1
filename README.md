@@ -17,3 +17,12 @@ Berikut beberapa tools yang digunakan dalam pengembangan mini-project-1
 
 ## AUTHOR
 Irsal Hamdi
+
+## ACKNOWLEDGMENTS
+
+Ucapan Terima Kasih kepada :
+ - Bank Rakyat Indonesia (BRI)
+ - Satkom INDO
+ - Dibimbing.id
+ - Mas Salman dan Mas Ridho
+ - Teman Teman IT Bootcamp BRI
